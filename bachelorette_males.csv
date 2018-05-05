@@ -1,0 +1,283 @@
+Name,Age,Occupation,Hometown,ElimWeek,Season
+Ryan Sutter,29,Firefighter,"Vail, Colorado",,1
+Charlie Maher,28,Financial Analyst,"Hermosa Beach, California",6.0,1
+Russ,30,Writer,"San Rafael, California",5.0,1
+Greg T.,28,Importer,"Manhattan, New York",4.0,1
+Bob Guiney,31,Mortgage Broker,"Ferndale, Michigan",3.0,1
+Jamie Blyth,27,Professional Basketball Player,"Chicago, Illinois",3.0,1
+Mike,24,Sales and Consulting,"Cincinnati, Ohio",3.0,1
+Rob,29,Computer Programmer,"Dallas, Texas",3.0,1
+Brian C.,28,Mortgage Broker,"Dallas, Texas",2.0,1
+Brian S.,28,Sales Engineer,"Dallas, Texas",2.0,1
+Brook,29,Rodeo Cowboy,"Dallas, Texas",2.0,1
+Jack,27,Firefighter,"Pepper Pike, Ohio",2.0,1
+Jeff,25,Professional Football Player,"San Diego, California",2.0,1
+Josh,31,Radio Advertising Executive,"Boca Raton, Florida",2.0,1
+Brian H.,30,National Sales Manager,"Cleveland, Ohio",2.0,1
+Billy,28,Firefighter,"Hermosa Beach, California",1.0,1
+Brian K.,31,Breast Implant Sales,"San Francisco, California",1.0,1
+Chris,35,V.P. of Auto Parts Company,"Sugarloaf, Pennsylvania",1.0,1
+Duane,28,Flight Instructor,"Chisago City, Minnesota",1.0,1
+Eric,33,Commercial Pilot,"St. Louis, Missouri",1.0,1
+Gregg H.,34,Marble Company Owner,"Freehold, New Jersey",1.0,1
+Matt,42,Gym Owner,"Marina Del Rey, California",1.0,1
+Paul,26,Telecommunications,"Honolulu, Hawaii",1.0,1
+Peter,25,Construction Business Owner,"Long Island, New York",1.0,1
+Wayne,37,Commercial Pilot,"Sacramento, California",1.0,1
+Ian McKee,29,Equity Research Sales,"New York, New York",,2
+Matthew Hickl,28,Pharmaceutical Sales Rep,"Friendswood, Texas",8.0,2
+Chad,31,Pharmaceutical Sales Rep,"Buffalo, New York",6.0,2
+Lanny,26,Stallion and Breeding Manager,"Aubrey, Texas",5.0,2
+Brad,29,Pharmaceutical Sales Rep,"Grand Rapids, Michigan",4.0,2
+Ryan M.,30,Financial Advisor,"Santa Barbara, California",4.0,2
+Sean,31,CPA,"Wall, New Jersey",4.0,2
+Rick,29,Business Manager,"San Diego, California",3.0,2
+Ryan R.,29,Sales/Marketing,"Wynola, California",3.0,2
+Todd,36,Options Trader,"San Francisco, California",3.0,2
+Damon,28,Arena Football Player,"Cardiff, California",2.0,2
+Eliot,25,Options Trader,"Mountain View, California",2.0,2
+Harold Hersh,29,Professional Hockey Player,"Rock Island, Illinois",2.0,2
+Marcus,26,Personal Trainer,"Los Angeles, California",2.0,2
+Robert,32,Alliance Development,"El Segundo, California",2.0,2
+Aaron,32,Title and Escrow Sales,"Sacramento, California",1.0,2
+Andy Chang,33,Dentist,"Dallas, Texas",1.0,2
+Anselm Clinard,32,Art Designer,"Venice, California",1.0,2
+Brian,31,Attorney,"Quincy, Massachusetts",1.0,2
+Chris,31,Accountant,"Boston, Massachusetts",1.0,2
+Cory Higgins,24,Small Business Owner,"Long Beach Island, New Jersey",1.0,2
+Jeff O'Quinn,30,Pharmaceutical Sales Rep,"Macon, Georgia",1.0,2
+Justin,25,Professional Baseball Player,"Orlando, Florida",1.0,2
+Keith,31,Financial Analyst,"Baltimore, Maryland",1.0,2
+Trever,35,Restaurateur,"North Wales, Pennsylvania",1.0,2
+Jesse Csincsak,26,Professional snowboarder,"Breckenridge, Colorado",,4
+Jason Mesnick,31,Account executive,"Cleveland, Ohio",8.0,4
+Jeremy Anderson,30,Real estate attorney,"Dallas, Texas",7.0,4
+Graham Bunn,29,Professional basketball player,"Raleigh, North Carolina",6.0,4
+Sean Ramey,33,Martial artist,"Louisville, Kentucky",5.0,4
+Blaine Twilley,33,Debt manager,"Tulsa, Oklahoma",5.0,4
+Brian Westendorf,31,High school football coach,"Balch Springs, Texas",4.0,4
+"Frederick ""Fred"" Greif",30,Lawyer,"Skokie, Illinois",4.0,4
+Robert Fair,28,Chef,"San Francisco, California",4.0,4
+Paul Brosseau,23,Sales manager,"Bonnyville, Alberta",3.0,4
+Ronald Mayer,36,Barber shop owner,"Greeley, Colorado",3.0,4
+Richard Mathy,27,Science teacher,"Sauquoit, New York",3.0,4
+"Christopher ""Chris"" Bradshaw",29,Medical sales rep.,"Fort Worth, Texas",2.0,4
+Eric Papachristos,32,Senior analyst,"Boston, Massachusetts",2.0,4
+Ryan Hoag,28,Professional football player,"Minneapolis, Minnesota",2.0,4
+Brian Winchester,29,Computer network consultant,"New Castle, Indiana",1.0,4
+Chandler Fulton,25,Insurance rep.,"Virginia Beach, Virginia",1.0,4
+Donato Capodanno,26,Sales rep.,"Lexington, South Carolina",1.0,4
+"Gregory ""Greg"" Matthew",28,Personal trainer,"Rockport, Massachusetts",1.0,4
+Jeffrey Harris,27,Mathematics teacher,"Miami, Florida",1.0,4
+"Jonathan ""Jon"" Konkel",35,Resort manager,"Williston, North Dakota",1.0,4
+Luke Hamilton,27,Oyster farmer,"Faith, North Carolina",1.0,4
+Patrick Carlson,26,Financial analyst,"Glenwood, Illinois",1.0,4
+Patrick Durrere,27,Internet marketing,"Elmhurst, Illinois",1.0,4
+Spero Stamboulis,38,Actor,"Ellington, Connecticut",1.0,4
+Ed Swiderski,29,Technology Consultant,"Monroe, Michigan",,5
+Kiptyn Locke,31,Business Developer,"Encinitas, California",10.0,5
+Reid Rosenthal,30,Realtor,"Upper Dublin, Pennsylvania",9.0,5
+Wes Hayden,32,Musician,"Huntsville, Texas",8.0,5
+Jesse Kovacs,27,Wine Maker,"Carmel Valley, California",7.0,5
+Michael Stagliano,25,Break Dance Instructor,"Tacoma, Washington",7.0,5
+Jake Pavelka,31,Commercial Pilot,"Denton, Texas",6.0,5
+Tanner Pope,30,Financial Analyst,"Brownfield, Texas",6.0,5
+Robby Descant,25,Bartender,"Spring, Texas",6.0,5
+Mark Huebner,26,Pizza Entrepreneur,"Woodstock, Illinois",5.0,5
+David Good,27,Trucking Contractor,"West Alexandria, Ohio",4.0,5
+Juan Barbieri,35,General Contractor,"Buenos Aires, Argentina",4.0,5
+Mike Steinberg,28,Baseball Camp Owner,"New York, New York",4.0,5
+Brad Seberhagen,27,Financial Advisor,"Park Ridge, Illinois",3.0,5
+Tanner Fanello,28,Sales Representative,"Derby, Kansas",3.0,5
+Sasha Petrovic,27,Oil & Gas Consultant,"Houston, Texas",3.0,5
+Brian Duke,32,IT Consultant,"Birmingham, Alabama",2.0,5
+Julien Hug,34,Restaurateur,"San Diego, California",2.0,5
+Mathue Johnson,25,Personal Trainer,"Andover, Kansas",2.0,5
+Simon Ambrose,26,Soccer Coach,"Bradford, England",2.0,5
+Adam Duvendeck,27,Olympic Cyclist,"Santa Barbara, California",1.0,5
+Bryan Vaderman,28,High School Coach,"Lawton, Oklahoma",1.0,5
+Bryce Harlow,31,Furniture Dealer,"Fort Lauderdale, Florida",1.0,5
+Caleb Kuhl,27,Photographer,"Kansas City, Missouri",1.0,5
+Greg Bilbro,31,Entrepreneur,"Albuquerque, New Mexico",1.0,5
+John Hardesty,27,Branding Consultant,"Boise, Idaho",1.0,5
+John Presser,29,Marketing Specialist,"Fort Wayne, Indiana",1.0,5
+Josh Yocam,25,Lifeguard,"Tustin, California",1.0,5
+Kyle Yauch,26,Graphic Designer,"Austin, Texas",1.0,5
+Stephen Reich,30,Lawyer,"Lexington, Massachusetts",1.0,5
+Roberto Martinez,26,Insurance Agent,"Tampa, Florida",,6
+Chris Lambton,33,Landscaper,"Dennis, Massachusetts",10.0,6
+Frank Neuschaefer,31,Retail Manager,"Bartlett, Illinois",9.0,6
+Kirk DeWindt,27,Sales Consultant,"Green Bay, Wisconsin",8.0,6
+Ty Brown,31,Medical Sales,"Booneville, Mississippi",7.0,6
+Craig Robinson,27,Lawyer,"Langhorne, Pennsylvania",6.0,6
+Justin Rego,26,Entertainment Wrestler,"Toronto, Ontario",6.0,6
+Chris Nordhorn,29,Entrepreneur,"Winter Park, Florida",5.0,6
+Kasey Kahl,27,Advertising Account Executive,"Fresno, California",5.0,6
+Jesse Beck,24,General Contractor,"Peculiar, Missouri",4.0,6
+Jonathan Novack,30,Weatherman,"Boston, Massachusetts",4.0,6
+John Crivello,32,Hotel Business Development,"Mukilteo, Washington",3.0,6
+Steve Kocsis,28,Sales Representative,"Chesterland, Ohio",3.0,6
+Hunter Wagner,28,Internet Account Executive,"Fair Oaks Ranch, Texas",3.0,6
+Chris Hasek-Watt,27,Real Estate Developer,"Campbell River, British Columbia",2.0,6
+Craig McKinnon,34,Dental Sales,"Sarnia, Ontario",2.0,6
+Tyler Vermette,25,Online Advertising,"Chelsea, Vermont",2.0,6
+Derek,28,Sales Manager,"Warren, Michigan",1.0,6
+Derrick Schuster,27,Construction Engineer,"Manhattan Beach, California",1.0,6
+Jason Whitehead,27,Construction Consultant,"Johnson City, Tennessee",1.0,6
+Jay Resmini,29,Lawyer,"Barrington, Rhode Island",1.0,6
+John N.,27,Engineering Software Sales,"Wichita, Kansas",1.0,6
+Kyle Higgins,26,Outdoorsman,"Highlands Ranch, Colorado",1.0,6
+Phil Kayden,30,Investment Manager,"Elmore, Ohio",1.0,6
+Tyler Morrow,25,Catering Manager,"Helena, Montana",1.0,6
+J.P. Rosenbaum,34,Construction Manager,"Roslyn, New York",,7
+Ben Flajnik,28,Wine Maker,"Sonoma, California",10.0,7
+Constantine Tzortzis,30,Restaurant Owner,"Cumming, Georgia",9.0,7
+Ames Brown,31,Portfolio Manager,"Chadds Ford, Pennsylvania",8.0,7
+Lucas Daniels,30,Oilfield Equipment Distributor,"Odessa, Texas",7.0,7
+Ryan Park,31,Solar Energy Executive,"San Luis Obispo, California",7.0,7
+Blake Julian,27,Dentist,"Steamboat Springs, Colorado",6.0,7
+"Ryan ""Mickey"" McLean",31,Chef,"Rochester, New York",6.0,7
+Nick Peterson,26,Personal Trainer,"Odessa, Florida",5.0,7
+William Holman,30,Cellular Phone Salesman,"Fostoria, Ohio",5.0,7
+Ben Castoriano,28,Lawyer,"Lake Charles, Louisiana",5.0,7
+West Lee,30,Lawyer,"Walhalla, South Carolina",4.0,7
+Chris Drish,25,Sports Marketing Coordinator,"Moline, Illinois",3.0,7
+Jeff Medolla,35,Entrepreneur,"St. Louis, Missouri",3.0,7
+Bentley Williams,28,Businessman,"Alpine, Utah",3.0,7
+Matt Colombo,28,Office Supply Salesman,"Bridgewater, Massachusetts",2.0,7
+Ryan Miller,27,Constructor Estimator,"Novi, Michigan",2.0,7
+Stephen D'Amico,27,Hairstylist,"Portland, Connecticut",2.0,7
+Anthony Santucci,28,Butcher,"Saddle River, New Jersey",1.0,7
+Chris Malhomme,27,Construction Company CEO,"Gibbons, Alberta",1.0,7
+Frank Carpenter,29,College Admissions Director,"Anchorage, Alaska",1.0,7
+Jon Ellsworth,26,E-Commerce Executive,"Vancouver, Washington",1.0,7
+Michael Burns,29,Technology Salesman,"Providence, Rhode Island",1.0,7
+Rob Dahm,27,Technology Executive,"Monroe, Michigan",1.0,7
+Tim McCormack,35,Liquor Distributor,"Massapequa, New York",1.0,7
+Jef Holm,27,Entrepreneur,"St. George, Utah",,8
+"Arie Luyendyk, Jr.",30,Race Car Driver,"Scottsdale, Arizona",10.0,8
+Sean Lowe,28,Insurance Agent,"Irving, Texas",9.0,8
+Chris Bukowski,25,Corporate Sales Director,"Chicago, Illinois",8.0,8
+John Wolfner,30,Data Destruction Specialist,"Creve Coeur, Missouri",7.0,8
+Doug Clerget,33,Single Dad/Real Estate Agent,"Tacoma, Washington",7.0,8
+Ryan Bowers,31,Pro Sports Trainer,"Evans, Georgia",6.0,8
+Travis Pope,30,Advertising Sales Representative,"Madison, Mississippi",6.0,8
+Alejandro Velez,25,Mushroom Farmer,"San Francisco, California",5.0,8
+Kalon McMahon,27,Luxury Brand Consultant,"Houston, Texas",5.0,8
+Charlie Grogan,32,Recruiter,"Worcester, Massachusetts",4.0,8
+Michael Nance,26,Rehab Counselor,"Austin, Texas",4.0,8
+Nathan Baake,25,Accountant,"Casa Grande, Arizona",4.0,8
+Stevie Alberino,26,Party M.C.,"Monroe Township, New Jersey",3.0,8
+Alessandro Goulart,30,Grain Merchant,"Saint Paul, Minnesota",3.0,8
+Tony Pieper,31,Single Dad/Lumber Trader,"Beaverton, Oregon",3.0,8
+Aaron Martell,36,Biology Teacher,"North Sydney, Nova Scotia",2.0,8
+Kyle Dillon,29,Financial Adviser,"Long Beach, California",2.0,8
+Joe Gendreau,27,Field Energy Adviser,"Orlando, Florida",2.0,8
+Brent Richter,41,Technology Salesman,"Midland, Texas",1.0,8
+David Homyk,33,Singer/Songwriter,"Charlottesville, Virginia",1.0,8
+Jackson Longnecker,29,Fitness Model,"Lockport, Illinois",1.0,8
+Jean-Paul LaCount,35,Marine Biologist,"Moraga, California",1.0,8
+Lerone Anu,29,Real Estate Consultant,"Laguna Beach, California",1.0,8
+Randy Lee Woyak,30,Marketing Manager,"Oak Creek, Wisconsin",1.0,8
+Chris Siegfried,27,Mortgage Broker,"McMinnville, Oregon",,9
+Drew Kenney,27,Digital Marketing Analyst,"Scottsdale, Arizona",10.0,9
+Brooks Forester,28,Sales & Marketing,"Blackfoot, Idaho",9.0,9
+Zak Waddell,31,Drilling Fluid Engineer,"Dallas, Texas",8.0,9
+Michael Garofola,33,Federal Prosecutor,"Lindenhurst, New York",7.0,9
+James Case,27,Advertising Executive,"Marietta, Georgia",6.0,9
+Juan Pablo Galavis,31,Former Pro Soccer Player,"Barquisimeto, Venezuela",6.0,9
+Kasey Stewart,29,Advertising Executive,"Tulsa, Oklahoma",6.0,9
+Mikey Tenerelli,30,Plumbing Contractor,"Glen Ellyn, Illinois",5.0,9
+Ben Scott,28,Entrepreneur,"Lubbock, Texas",5.0,9
+Bryden Vukasin,26,Iraq War Veteran,"Havre, Montana",5.0,9
+Zack Kalter,28,Book Publisher,"Phillips Ranch, California",4.0,9
+Brad McKinzie,27,Accountant/DJ,"Denver, Colorado",4.0,9
+Brandon Andreen,26,Painting Contractor,"Blaine, Minnesota",3.0,9
+Dan Cox,30,Beverage Sales Director,"Dublin, California",3.0,9
+Brian Jarosinski,29,Financial Advisor,"Olney, Maryland",3.0,9
+Nick Mucci,27,Investment Adviser,"Rochester, New York",2.0,9
+Robert Graham,30,Advertising Entrepreneur,"Glendale, Arizona",2.0,9
+Will Reese,28,Banker,"Federal Way, Washington",2.0,9
+Diogo Custodio,29,Ski Resort Manager,"Penha, Brazil",1.0,9
+Larry Burchett,34,ER Doctor,"Overland Park, Kansas",1.0,9
+Micah,32,Law Student,"Detroit Lakes, Minnesota",1.0,9
+Mike,28,Dental Student,"London, England",1.0,9
+Nick Roy,26,Tailor/Magician,"Ridgefield, Connecticut",1.0,9
+Jonathan Vollinger,26,Lawyer,"Hickory, North Carolina",1.0,9
+Josh Murray,29,Former Professional Baseball Player,"Athens, Georgia",,10
+Nick Viall,33,Software Sales Executive,"Waukesha, Wisconsin",10.0,10
+Chris Soules,32,Farmer,"Lamont, Iowa",9.0,10
+Marcus Grodd,25,Sports Medicine Manager,"Medicine Hat, Alberta",8.0,10
+Brian Osborne,27,Basketball Coach,"Camp Hill, Pennsylvania",7.0,10
+Dylan Petitt,26,Accountant,"Longmeadow, Massachusetts",7.0,10
+J.J. O'Brien,30,Pantsapreneur,"Hanover, Massachusetts",6.0,10
+Cody Sattler,28,Personal Trainer,"Oakley, Kansas",6.0,10
+Andrew Poole,30,Social Media Marketer,"Portola Valley, California",5.0,10
+Marquel Martin,26,Sponsorship Salesman,"Rialto, California",5.0,10
+Patrick Jagodzinski,29,Advertising Executive,"Clinton, New Jersey",5.0,10
+Tasos Hernandez,30,Wedding Event Coordinator,"Denver, Colorado",4.0,10
+Eric Hill,31,Explorer,"Citrus Heights, California",4.0,10
+Bradley Wisk,32,Opera Singer,"Grosse Pointe, Michigan",3.0,10
+Brett Melnick,29,Hairstylist,"Warminster, Pennsylvania",3.0,10
+Ron Worrell,28,Beverage Sales Manager,"Nahariya, Israel",3.0,10
+Carl King,30,Firefighter,"Hollywood, California",2.0,10
+Craig Muhlbauer,29,Tax Accountant,"Defiance, Iowa",2.0,10
+Nick Sutter,27,Professional Golfer,"Barrington, Illinois",2.0,10
+Emil Schaffroth,33,Helicopter Pilot,"Portland, Oregon",1.0,10
+Jason Leep,35,Urgent Care Physician,"Sturgeon Bay, Wisconsin",1.0,10
+Josh Bauer,29,Telecommunication Marketer,"Evergreen, Colorado",1.0,10
+Mike Campanelli,29,Bartender,"Guilderland, New York",1.0,10
+Rudie Dane,31,Attorney,"Yorba Linda, California",1.0,10
+Steven Woolworth,30,Snowboard Product Developer,"Meadow Vista, California",1.0,10
+Shawn Booth,28,Personal Trainer,"Windsor Locks, Connecticut",,11
+Nick Viall,34,Software Sales Executive,"Waukesha, Wisconsin",9.0,11
+Ben Higgins,26,Software Salesman,"Warsaw, Indiana",8.0,11
+Jared Haibon,26,Restaurant Manager,"Warwick, Rhode Island",7.0,11
+Joe Bailey,28,Insurance Agent,"Glasgow, Kentucky",7.0,11
+Chris Strandburg,28,Dentist,"Granite Bay, California",7.0,11
+Ben Zorn,26,Fitness Coach,"Falls Church, Virginia",6.0,11
+Tanner Tolbert,28,Auto Finance Manager,"Stilwell, Kansas",6.0,11
+J.J. Lane III,32,Former Investment Banker,"Dacono, Colorado",6.0,11
+Joshua Albers,31,Industrial Welder,"Kuna, Idaho",5.0,11
+Justin Reich,28,Fitness Trainer,"Elgin, Illinois",5.0,11
+Ian Thomson,28,Executive Recruiter,"Ramsey, New Jersey",5.0,11
+Corey Stansell (NY),30,Investment Banker,"New York, New York",4.0,11
+Jonathan Holloway,33,Automotive Spokesman,"Sylvan Lake, Michigan",4.0,11
+Ryan Beckett,32,Realtor,"Wellington, Florida",4.0,11
+Clint Arlis,27,Architectural Engineer,"Batavia, Illinois",3.0,11
+Tony Harris,35,Healer,"St. Louis, Missouri",3.0,11
+Cory Shivar (NC),35,Residential Developer,"Seven Springs, North Carolina",2.0,11
+Daniel Finney,28,Fashion Designer,"Nashville, Tennessee",2.0,11
+Kupah James,32,Entrepreneur,"Boston, Massachusetts",2.0,11
+Bradley Cox,25,International Auto Shipper,"Duluth, Georgia",1.0,11
+David,28,Real Estate Agent,"Orlando, Florida",1.0,11
+Josh Seiter,27,Law Student/Exotic Dancer,"Chicago, Illinois",1.0,11
+Shawn Evans,31,Amateur Sex Coach,"London, Ontario",1.0,11
+Brady Toops,33,Singer/Songwriter,"Wauseon, Ohio",1.0,11
+Ryan McDill,28,Junkyard Specialist,"Kansas City, Missouri",1.0,11
+Jordan Rodgers,27,Former Pro Quarterback,"Chico, California",,12
+Robby Hayes,27,Former Competitive Swimmer,"St. Augustine, Florida",10.0,12
+Chase McNary,27,Medical Sales Rep,"Castle Rock, Colorado",9.0,12
+Luke Pell,31,War Veteran,"Burnet, Texas",8.0,12
+James Taylor,29,Singer-Songwriter,"Katy, Texas",7.0,12
+Alex Woytkiw,25,U.S. Marine,"Oceanside, California",7.0,12
+Derek Peth,29,Commercial Banker,"Waverly, Iowa",6.0,12
+Wells Adams,31,Radio DJ,"Monterey, California",6.0,12
+Evan Bass,33,Erectile Dysfunction Specialist,"Hartford, Connecticut",5.0,12
+Grant Kemp,27,Firefighter,"San Francisco, California",5.0,12
+"Vincent ""Vinny"" Ventiera",28,Barber,"Kings Park, New York",5.0,12
+Daniel Maguire,31,Male Model,"Lions Bay, British Columbia",4.0,12
+James Fuertes,34,Boxing Club Owner,"Franklin, Tennessee",4.0,12
+Chad Johnson,28,Luxury Real Estate Agent,"Jenks, Oklahoma",4.0,12
+Ali Zahiri,27,Bartender,"Santa Monica, California",3.0,12
+Christian Bishop,26,Telecom Consultant,"Los Angeles, California",3.0,12
+Nick Benvenutti,33,Electrical Engineer,"Carthage, Illinois",3.0,12
+Brandon Howell,28,Hipster,"Marysville, Washington",2.0,12
+James Spadafore,27,Bachelor Superfan,"Phoenix, Arizona",2.0,12
+Will Haduch,26,Civil Engineer,"Jersey City, New Jersey",2.0,12
+Coley Knust,27,Real Estate Consultant,"Chicago, Illinois",1.0,12
+Jake Patton,26,Landscape Architect,"Playa Vista, California",1.0,12
+Jonathan Hamilton,29,Technical Sales Rep,"Vancouver, British Columbia",1.0,12
+Nick Sharp,26,Software Salesman,"San Francisco, California",1.0,12
+Peter Medina,26,Staffing Agency Manager,"Rockdale, Illinois",1.0,12
+Sal DeJulio,28,Operations Manager,"Hubbard, Ohio",1.0,12
