@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 def possible_urls(name, show_name, season):
     """
     Returns the possible URLs for a character. 
+    This is due to some characters being identified with their last initial.
     """
     split_name = name.split()
     first_name = split_name[0]
@@ -15,6 +16,7 @@ def possible_urls(name, show_name, season):
         urls.append(
             f"http://bachelor-nation.wikia.com/wiki/File:{first_name}_{last_initial}._({show_name}_{season}).jpg")
     return urls
+
 
 def get_images(infile, outfile, show_name):
     with open(infile) as f, open(outfile, "w", newline="") as out:

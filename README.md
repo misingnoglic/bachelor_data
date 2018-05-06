@@ -8,3 +8,5 @@ Just run the script to get the images from the Bachelor Wiki. This is running on
 or 
 
 `http://bachelor-nation.wikia.com/wiki/File:{first_name}_{last_initial}._({show_name}_{season}).jpg"`
+
+To run, install requests first (`pip install requests`), and then just run the script in the same folder as the CSV files.
